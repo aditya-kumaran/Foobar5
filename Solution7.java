@@ -200,15 +200,6 @@ public class Solution7
             }
         }
         
-        // printing avoids
-        
-        for (Vector i : avoid_images.keySet()) 
-            {
-
-                    //System.out.println("vector: " + i.print() + " avoid: " + avoid_images.get(i).print());
-                
-                
-            }
         
         // finding all your angles/vectors
         
