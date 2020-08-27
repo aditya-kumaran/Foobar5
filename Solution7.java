@@ -230,17 +230,7 @@ public class Solution7
                     count++;
                 }
             }
-            
-            for (Vector i : images.keySet()) 
-            {
-                if (images.get(i).type==1)
-                {
-                    //System.out.println("key: " + i.print() + " value: " + images.get(i).print());
-                }
-                
-            }
-            
-        
+
         return count;
     }
     
