@@ -52,8 +52,7 @@ public class Solution7
         ArrayList<int[]> targets = target(guard_position, h_reflects, v_reflects);
 
 
-        
-        System.out.println();
+       
         
         ArrayList<int[]> avoids = avoid(your_position, h_reflects, v_reflects);
         
